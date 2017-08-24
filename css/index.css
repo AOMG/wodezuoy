@@ -1,0 +1,401 @@
+header{
+	width: 100%;
+	height: .88rem;
+	background-color: #01e4b6;
+	padding: 0 .24rem;
+	overflow:hidden;
+	position: fixed;
+	top: 0;
+	z-index:999;
+}
+header img{
+	width: .35rem;
+	height: .35rem;
+	margin-top: .27rem;	
+}
+header a{
+	float: left;
+}
+header a:nth-child(2){
+	float: right;
+}
+header div{
+	width: 1.8rem;
+	height: .52rem;
+/* 	background-color: pink; */
+	font-size: .3rem;
+	color: white;
+	margin: 0 auto;
+	margin-top: .18rem;
+	text-align: center;
+}
+.xiangqu-biaoti{
+	width: 1.8rem;
+	height: .28rem;
+/* 	background-color: yellowgreen; */
+}
+.xiangqu-biaoti span{
+	display: block;
+	line-height: .28rem;
+}
+.wantgo-biaoti{
+	width: 1.8rem;
+	height: .18rem;
+/* 	background-color: yellowgreen; */
+	margin-top: .06rem;
+}
+.wantgo-biaoti span{
+	display: block;
+	line-height: .18rem;
+	font-size: .26rem
+}
+#neirong{
+	margin-top:.88rem;
+	margin-bottom: 1rem; 
+}
+#banner{
+	width: 7.5rem;
+	height: 3.75rem;
+	background-color: blueviolet;
+}
+#xuanxiang{
+	padding: 0 .24rem;
+	margin-top: .34rem;
+}
+#xuanze{
+	width: 100%;
+	height: 1.28rem;
+}
+#xuanze li{
+	width: 25%;
+	height: 1.28rem;
+	float: left;
+}	
+#xuanze li a{
+	display: block;
+	width: .9rem;
+	height: 1.05rem;
+	margin: 0 auto;
+}
+#xuanze li span{
+	font-size: .24rem;
+	display: block;
+	text-align: center;
+	line-height: .24rem;
+}
+#dabiaoti{
+	width: 100%;
+	height: .62rem;
+	padding: 0 2.30rem;
+	margin-top: .41rem;
+/* 	background-color: gold; */
+	position:absolute;
+
+}
+#dabiaoti span:nth-child(1){
+	font-size: .26rem;
+	display: block;
+	text-align: center;
+	color: #01e4b6;
+	font-family: San Francisco Display-Semibold;
+}
+.dabiaodi-xia img{
+	width: .25rem;
+	height: .13rem;	
+	float: left;
+	margin-top: .06rem;
+}
+#dabiaoti div{
+	float: left;
+	width: 2.88rem;
+	height: .25rem;
+/* 	background-color: goldenrod; */
+	margin: 0 auto;
+	position:relative;
+}
+#dabiaoti span:nth-child(2){
+	font-size: .28rem;
+	color: #01e4b6;
+	display: block;
+	float: left;
+	margin-left: .15rem;
+	text-align: center;
+	line-height: .25rem;
+}
+.dabiaodi-xia img:nth-child(1){
+	margin-left: .54rem;
+}
+.dabiaodi-xia img:nth-child(3){ 
+	margin-left: .15rem
+}
+#bankuai{
+	width: 100%;
+	height: 10.82rem;
+	background-color: #eaeaea;
+	padding: 0 .24rem;
+	margin-top: 1.38rem;
+}
+.bankuai{
+	width: 3.4rem;
+	height: 5.26rem;
+/* 	background-color: #fff; */
+	float: left;
+	margin-right: .22rem;
+}
+.bankuaitu2{
+	margin-right: 0;
+}
+.bankuaitu3{
+	margin-top: .3rem;
+}
+.bankuaitu4{
+	margin-top: .3rem;
+	margin-right: 0;
+}
+.bantupian{
+	width: 100%;
+	height: 3.92rem;
+	border-radius: .1rem .1rem 0 0;
+}
+.bantupian img:nth-child(2){
+	width: .8rem;
+	height: .29rem;
+	margin-top: -3.8rem;
+	margin-left: 2.5rem;
+}
+.banjieshao{
+	width: 100%;
+	height: 1.34rem;
+	position: relative;
+	background-color: #fff;
+}
+.bantouxiang{
+	width: .74rem;
+	height: .82rem;
+	position: absolute;
+	left: .14rem;
+	top: -.42rem;
+}
+.bandiyihangzi{
+	width: 2.2rem;
+	height: .24rem;
+	position: absolute;
+	top: .11rem;
+	left: .88rem;
+}
+.bandiyihangzi span{
+	font-size: .26rem;
+	display: block;
+	float: left;
+	margin-right: .10rem;
+	line-height: .24rem;
+}
+.bandiyihangzi img{
+	width: .18rem;
+	height: .18rem;
+	display: block;
+	float: left;
+	margin-right: .03rem;
+	margin-top: .02rem;
+
+}
+.bandierhangzi{
+	width: 3.1rem;
+	height: .2rem;
+	position: absolute;
+	top: .57rem;
+	left: .15rem;
+}
+.bandierhangzi img{
+	width: .2rem;
+	height: .2rem;
+	float: left;
+	margin-right: .13rem;
+}
+.bandierhangzi span{
+	font-size: .24rem;
+	display: block;
+	font-family: pingfang;
+	line-height: .2rem;
+	
+}
+.bandisanhangzi{
+	width: 3.1rem;
+	height: .22rem;
+	position: absolute;
+	top: .98rem;
+	left: .15rem;
+}
+.bandisanhangzi img{
+	width: .22rem;
+	height: .22rem;
+	float: left;
+	margin-right: .03rem;
+
+}
+.bandisanhangzi span{
+	font-size: .2rem;
+	float: left;
+	line-height: .22rem;
+	margin-right: .15rem;
+}
+.bandisanhangzi span:nth-child(6){
+	margin-right: 0;
+}
+.bandi{
+	width: 100%;
+	height: .05rem;
+	background-color: #fbdd59;
+	bottom: 0;
+	position: absolute;
+}
+#list{
+	width: 100%;
+	height: 6.86rem;
+	background-color: #333;
+	margin-top: 1.37rem;
+	padding: 0 .24rem;
+}
+.list-top1{
+	width: 100%;
+	height: 2.17rem;
+/* 	background-color: pink; */
+}
+.datop2{
+	margin-top: .18rem;
+}
+.list-top1tu{
+	width: 2.45rem;
+	height: 2.17rem;
+	background-color: yellowgreen;
+	border-radius: .1rem;
+	overflow: hidden;
+	float: left;
+}
+.list-top1you{
+	width: 4.57rem;
+	height: 2rem;
+	background-color: #fff;
+	margin-top: .08rem;
+	border-radius: 0 .1rem .1rem 0;
+	position:absolute;
+	left: 2.69rem; 
+}
+.top1{
+	width: .73rem;
+	height: .4rem;
+	position:relative;
+	top: -.08rem;
+	left: 3.4rem;
+}
+.top1youdiyihang{
+	position:absolute;
+	width: 2.2rem;
+	height: .25rem;
+	top: .26rem;
+	left: .24rem;
+}
+.top1youdiyihang span{
+	font-size: .26rem;
+	color: #8d8d8d;
+	font-weight: 600;
+	display: block;
+	line-height: .25rem;
+	float: left;
+	margin-right: .09rem;
+}
+.top1youdiyihang img{
+	width: .18em;
+	height: .18em;
+	float: left;
+	margin-left: .03rem;
+	margin-top: .02rem;
+}
+.top1youdierhang{
+	position:absolute;
+	width: 2.5rem;
+	height: .22em;
+	top: .58rem;
+	left: .24rem;
+}
+.top1youdierhang img{
+	width: .18rem;
+	height: .22rem;
+	float: left;
+}
+.top1youdierhang span{
+	font-size: .04rem;
+	float: left;
+	line-height: .22rem;
+	margin-left:.06rem;
+	color: #888888;
+}
+.top1hengxian{
+	width: 3.25rem;
+	height: .01rem;
+	left: .24rem;
+	top: .9rem;
+	background-color: #d5d5d5;
+	position:absolute;
+}
+.top1shuoming{
+	height: .48rem;
+	font-size: .24rem;
+	display: block;
+	left: .24rem;
+	right: .24rem;
+	top: 1rem;
+	position:absolute;
+}
+.top1youxiahang{
+	width: 4.09rem;
+	height: .20rem;
+	top: 1.7rem;
+	left: .24rem;
+	float: left;
+	position:absolute;
+}
+.top1youxiahang span{
+	font-size: .18rem;
+	float: left;
+	line-height: .2rem;
+	margin-right: .42rem;
+}
+.top1youxiahang img{
+	width: .2rem;
+	height: .2rem;
+	float: left;
+	line-height: .2rem;
+	margin-right: .06rem;
+}
+#tab{
+	width: 100%;
+	height: 1rem;
+	background-color: #fff;
+	padding: 0 .24rem;
+	float: left;
+	margin-top: .2rem;
+	position: fixed;
+	bottom: 0;
+	z-index:999;
+	
+}
+.tab-xuanze{
+	width: 33.3%;
+	height: 100%;
+/* 	background-color: gold; */
+	float: left;
+}
+.tab-icon{
+	width: .47rem;
+	height: .47rem;
+/* 	background-color: yellowgreen; */
+	margin: 0 auto;
+	margin-top: .1rem;
+	display: block;
+}
+.tab-xuanze span{
+	font-size: .28rem;
+	display: block;
+	text-align: center;
+}

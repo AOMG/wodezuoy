@@ -1,0 +1,208 @@
+.box{
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;   /* 满屏 */
+}
+header{
+	width: 100%;
+	height: .88rem;
+	background-color: #02e0b0;
+	padding: 0 .24rem;
+	overflow: hidden;
+}
+header img{
+	width: .43rem;
+	height: .44rem;
+	margin-top: .23rem;
+	float: left;
+}
+header div{
+	width: 1.14rem;
+	height: .39rem;
+/* 	background-color: #fff; */
+	float: right;
+	margin-top: .27rem;
+	border-radius: .9rem;
+	border: .03rem solid #fff;
+}
+header div span{
+	font-size: .24rem;
+	color: #fff;
+	display: block;
+	line-height: .33rem;
+	text-align: center;
+}
+#top{
+	width: 100%;
+	height: 3.63rem;
+	position:absolute; 
+}
+#top img:nth-child(2){
+	width: 1.49rem;
+	height: 1.49rem;
+	position:relative; 
+	top: -3.44rem;
+	margin: 0 auto;
+}
+.login{
+	width:100%;
+	height: 8.43rem;
+/* 	background-color: pink; */
+	margin-top: 3.63rem;
+	padding: 0 1rem;
+	position:absolute;
+}
+.user-box{
+	width: 5.5rem;
+	height: .8rem;
+/* 	background-color: gold; */
+	margin-top: .96rem;
+	position:relative;
+}
+.user-touxiang{
+	width: .58rem;
+	height: .58rem;
+/* 	background-color: #fff; */
+	float: left;
+	margin-top: .07rem;
+}
+.user-shuru{
+	width: 4.83rem;
+	height: .69rem;
+	background-color: #fff;
+	float: right;
+}
+.username{
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-radius: .5rem;
+	border: .03rem solid #02E0B0;
+}
+.mima{
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-radius: .5rem;
+	border: .03rem solid #02E0B0;
+}
+.shurumima{
+	margin-top: .38rem;
+}
+.jizhuwangjimima{
+	width: 4.44rem;
+	height: .19rem;
+/* 	background-color: #888888;	 */
+	margin-left: .87rem;
+	margin-top: .04rem;	
+}
+.wangjimimaxuan{
+	display: block;
+	float: left;
+}
+.jizhuwangjimima span{
+	font-size: .2rem;
+	display: block;
+	float: left;
+	line-height: .19rem;
+	margin-left: .08rem;
+}
+.jizhuwangjimima a{
+	float: right;
+}
+.dengludianjihe{
+	width: 2.5rem;
+	height: .77rem;
+	margin-left: 1.49rem;
+	margin-top: .58rem;
+}
+.dengludiaji{
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: .5rem;
+	background-color: #02E0B0;
+	border: 0rem solid #02E0B0;
+	color: #fff;
+
+}
+.disanfang{
+	width: 3.15rem;
+	height: .37em;
+	margin-left: 1.17rem;
+	margin-top: 1.36rem;
+}
+.sanfang{
+	background-color: #fbdd59;
+	float: left;
+	border-radius: 50%;
+}
+.quan1{
+	width: .03rem;
+	height: .03rem; 
+	margin-top: .17rem;
+}
+.quan2{
+	width: .05rem;
+	height: .05rem; 
+	margin-top: .16rem;
+	margin-left: .16rem;
+}
+.quan3{
+	width: .09rem;
+	height: .09rem;
+	margin-top: .14rem;
+	margin-left: .16rem;
+}
+.qitadenglu{
+	width: 1.77rem;
+	height: .37rem;
+	background-color: #fff;
+	border-radius: .5rem;
+	margin-left: .69rem;
+	border: .02rem solid #fbdd59;
+}
+.qitadenglu span{
+	font-size: .22rem;
+	color: #fbdd59;
+	line-height: .30rem;
+	text-align: center;
+	display: block;
+}
+.quan4{
+	width: .09rem;
+	height: .09rem;
+	margin-top: -.23rem;
+	margin-right: .4rem;
+	float: right;
+}
+.quan5{
+	width: .05rem;
+	height: .05rem; 
+	margin-top: -.21rem;
+	margin-right: .19rem;
+	float: right;
+}
+.quan6{
+	width: .03rem;
+	height: .03rem;
+	float: right;
+	margin-top: -.20rem;
+}	
+.weixinqq{
+	width: 2.35rem;
+	height: .76rem;
+	margin-left: 1.57rem;
+	margin-top: .34rem;
+}
+.weixinqq img{
+	width:33.333%;
+	height: .76rem;
+	float: left;
+}
